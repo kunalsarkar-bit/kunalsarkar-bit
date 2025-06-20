@@ -24,7 +24,7 @@
 - 🔹 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X) – An online auction platform
 - 🔹 [Eventra](https://github.com/kunalsarkar-bit/Eventra) – Event promotion website
 - 🔹 [weatherwebProject](https://github.com/kunalsarkar-bit/weatherwebProject) – Simple weather app
--🔹 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X-Major) – AI-powered auction platform
+- 🔹 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X-Major) – AI-powered auction platform
 
 ---
 
