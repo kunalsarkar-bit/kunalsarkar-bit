@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%">
 
 ## 💻 Tech Stack
 
@@ -36,7 +36,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 
 </td>
-<td width="60%">
+<td width="50%">
 
 ## 🎯 Quick Stats
 
@@ -50,12 +50,6 @@
 - ☁️ AWS & GCP Cloud Services
 - 🤖 Advanced AI/ML Integration
 - 🔧 DevOps & CI/CD Pipelines
-
-## 🏆 Key Achievements
-- 🏅 MERN Stack Training - Euphoria GenX
-- 🐍 Python Bootcamp - Udemy
-- 💬 Communication Skills - Udemy
-- 📚 Academic Excellence - SGPA: 7.342
 
 </td>
 </tr>
@@ -121,7 +115,7 @@ Production auction platform (Internship Project)
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 ## 💼 Experience
 
@@ -132,15 +126,19 @@ Production auction platform (Internship Project)
 - Implemented CI/CD deployment
 - Optimized performance by 35%
 
-## 🌍 Languages
-**English** - Fluent | **Bengali** - Native | **Hindi** - Native
+## 🏆 Achievements
+- 🏅 MERN Stack Training - Euphoria GenX
+- 🐍 Python Bootcamp - Udemy
+- 💬 Communication Skills - Udemy
 
 </td>
-<td width="40%">
+<td width="50%">
 
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=dark&hide_border=true" width="100%"/>
 
 </td>
 </tr>
