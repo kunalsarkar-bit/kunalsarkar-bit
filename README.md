@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="max-width: 1000px; margin: auto;">
 
 # 🚀 Kunal Sarkar  
 ### Full-Stack Developer | MERN Stack | AI Integration  
@@ -14,7 +14,7 @@
 
 ---
 
-<table style="table-layout: fixed; width: 100%;">
+<table align="center" style="table-layout: fixed; width: 100%; max-width: 1000px;">
 <tr>
 <td style="width: 50%; vertical-align: top; padding: 10px;">
 
@@ -60,7 +60,7 @@
 
 ## 🚀 Featured Projects
 
-<table style="table-layout: fixed; width: 100%;">
+<table align="center" style="table-layout: fixed; width: 100%; max-width: 1000px;">
 <tr>
 <td style="width: 50%; vertical-align: top; padding: 10px;">
 
@@ -109,7 +109,7 @@ Online auction marketplace built during internship
 
 ---
 
-<table style="table-layout: fixed; width: 100%;">
+<table align="center" style="table-layout: fixed; width: 100%; max-width: 1000px;">
 <tr>
 <td style="width: 50%; vertical-align: top; padding: 10px;">
 
@@ -153,16 +153,18 @@ Online auction marketplace built during internship
 
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
 
-*💬 Open to:* Full-Stack Developer roles • Internships • Freelance projects • Open source contributions
+**💬 Open to:** Full-Stack Developer roles • Internships • Freelance projects • Open source contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-sardar/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:omsardar14@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunalsarkar-592a1230a/)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kunalsarkar6290@gmail.com)  
+[![Phone](https://img.shields.io/badge/Call-28a745?style=for-the-badge&logo=phone)](tel:+916290613849)
 
----
+<br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OM-SARDAR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&label=Profile%20Views&color=brightgreen" alt="Profile Views"/>
+
+<br><br>
 
 *⚡ "Building the future, one commit at a time!"*
+
+</div>
