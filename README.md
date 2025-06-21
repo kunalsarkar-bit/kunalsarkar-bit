@@ -149,14 +149,20 @@ Online auction marketplace built during internship
 
 <div align="center">
 
-### 🌟 Open to Full-time Opportunities & Collaborations
+## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunal-sarkar-592a1230a/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:kunalsarkar6290@gmail.com)  
-[![Phone](https://img.shields.io/badge/Call-28a745?style=for-the-badge&logo=phone)](tel:+916290613849)  
+I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out!
 
-*"Building innovative solutions through clean code and creative problem-solving."*
+*💬 Open to:* Full-Stack Developer roles • Internships • Freelance projects • Open source contributions
 
-<img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&color=brightgreen" alt="Profile views"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/om-sardar/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:omsardar14@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OM-SARDAR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
+*⚡ "Building the future, one commit at a time!"*
