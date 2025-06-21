@@ -14,9 +14,9 @@
 
 ---
 
-<table>
+<table style="width:100%;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ## 💻 Tech Stack
 
@@ -37,7 +37,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ## 🎯 Quick Stats
 
@@ -60,9 +60,9 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table style="width:100%;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ### ☀️ [Weather Web](https://github.com/kunalsarkar-bit/weatherwebProject)  
 Simple weather tracking app using OpenWeatherMap API  
@@ -83,7 +83,7 @@ Event management platform with QR check-ins
 <sub><i>Node.js • Express • MongoDB • QR API</i></sub>
 
 </td>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ### 🏆 [Auction-X Major](https://github.com/kunalsarkar-bit/Auction-X-Major)  
 AI-enhanced real-time bidding system  
@@ -109,9 +109,9 @@ Online auction marketplace built during internship
 
 ---
 
-<table>
+<table style="width:100%;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ## 💼 Experience
 
@@ -131,7 +131,7 @@ Online auction marketplace built during internship
 - ☁️ AWS Training & Certification - *ML & AI Fundamentals*  
 
 </td>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align: top; padding: 10px;">
 
 ## 📊 GitHub Stats
 
