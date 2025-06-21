@@ -27,13 +27,14 @@
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)  
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -42,7 +43,6 @@
 
 - 🔥 **150+ weekly users** on Auction-X platform  
 - ⚡ **35% faster** page load optimization  
-- 🤖 **500+ daily messages** on AI chat app  
 - 📊 **85% AI response** accuracy  
 - 🎫 **900+ attendees** managed via Eventra  
 
@@ -64,17 +64,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Chat Connect AI](https://github.com/kunalsarkar-bit)
-Real-time AI-powered chat system  
-- **500+ messages/day** with smart reply logic  
-- Gemini API & Socket.IO  
-- Improved UX with 25% user retention  
+### ☀️ [Weather Web](https://github.com/kunalsarkar-bit/weatherwebProject)  
+Simple weather tracking app using OpenWeatherMap API  
+- Live weather updates for global cities  
+- Clean responsive UI  
+- Real-time temperature, pressure & humidity display  
 <br>
-<sub><i>MERN • Socket.IO • Gemini API</i></sub>
+<sub><i>HTML • CSS • JS • API Integration</i></sub>
 
 ---
 
-### 🎯 [Eventra](https://github.com/kunalsarkar-bit/Eventra)
+### 🎯 [Eventra](https://github.com/kunalsarkar-bit/Eventra)  
 Event management platform with QR check-ins  
 - **900+ attendees** supported  
 - **60% faster** verification process  
@@ -85,7 +85,7 @@ Event management platform with QR check-ins
 </td>
 <td width="50%" valign="top">
 
-### 🏆 [Auction-X Major](https://github.com/kunalsarkar-bit/Auction-X-Major)
+### 🏆 [Auction-X Major](https://github.com/kunalsarkar-bit/Auction-X-Major)  
 AI-enhanced real-time bidding system  
 - Intelligent auction logic  
 - Real-time updates & payment integration  
@@ -95,7 +95,7 @@ AI-enhanced real-time bidding system
 
 ---
 
-### 🔥 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X)
+### 🔥 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X)  
 Online auction marketplace built during internship  
 - Used by **150+ active users/week**  
 - Performance boosted by **35%**  
@@ -121,21 +121,25 @@ Online auction marketplace built during internship
 - Led 3-member dev team  
 - Implemented CI/CD  
 - Achieved 35% performance gain  
+<br>
 
 ## 🏆 Achievements
 
 - 🏅 MERN Stack Training - Euphoria GenX  
 - 🐍 Python Bootcamp - Udemy  
-- 💬 Communication Skills - Udemy  
+- 📢 Communication Skills - Udemy  
+- ☁️ AWS Training & Certification - *ML & AI Fundamentals*  
 
 </td>
 <td width="50%" valign="top">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />  
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=dark&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />  
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=dark&hide_border=true" width="100%" />  
 
 </td>
 </tr>
