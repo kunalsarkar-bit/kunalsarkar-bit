@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ## 💻 Tech Stack
 
@@ -36,7 +36,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 
 </td>
-<td width="50%">
+<td width="10%"></td>
+<td width="45%">
 
 ## 🎯 Quick Stats
 
@@ -61,7 +62,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ### 🤖 **Chat Connect AI**
 [![GitHub](https://img.shields.io/badge/Code-black?style=flat&logo=github)](https://github.com/kunalsarkar-bit)
@@ -85,7 +86,8 @@ Smart event management with QR ticketing
 *Node.js • Express • QR API*
 
 </td>
-<td width="50%">
+<td width="10%"></td>
+<td width="45%">
 
 ### 🏆 **Auction-X Major**
 [![GitHub](https://img.shields.io/badge/Code-black?style=flat&logo=github)](https://github.com/kunalsarkar-bit/Auction-X-Major)
@@ -115,7 +117,7 @@ Production auction platform (Internship Project)
 
 <table>
 <tr>
-<td width="50%">
+<td width="45%">
 
 ## 💼 Experience
 
@@ -132,7 +134,8 @@ Production auction platform (Internship Project)
 - 💬 Communication Skills - Udemy
 
 </td>
-<td width="50%">
+<td width="10%"></td>
+<td width="45%">
 
 ## 📊 GitHub Stats
 
