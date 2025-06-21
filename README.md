@@ -21,36 +21,46 @@
 ## 💻 Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)  
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)](https://nodejs.org/)  
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)](https://expressjs.com/)  
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)](https://www.mongodb.com/docs/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)](https://socket.io/)
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/)  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)  
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)](https://en.cppreference.com/w/)  
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+
+### *Tools & Technologies*
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 </td>
 <td style="width: 50%; vertical-align: top; padding: 10px;">
 
 ## 🎯 Quick Stats
 
-- 🔥 **150+ weekly users** on Auction-X platform  
+- 🔥 **50+ weekly users** on Auction-X platform  
 - ⚡ **35% faster** page load optimization  
 - 📊 **85% AI response accuracy**  
-- 🎫 **900+ attendees** managed via Eventra  
+- 🎫 **220+ attendees** managed via Eventra  
 
 ## 🌱 Currently Learning
 
-- ☁️ AWS & GCP Cloud Services  
+- 🔐 Cyber Security Services  
 - 🤖 Advanced AI/ML Integration  
-- 🔧 DevOps & CI/CD Pipelines  
+- 🔧 DevOps , AWS & CI/CD Pipelines  
 
 </td>
 </tr>
@@ -76,7 +86,7 @@ Simple weather tracking app using OpenWeatherMap API
 
 ### 🎯 [Eventra](https://github.com/kunalsarkar-bit/Eventra)  
 Event management platform with QR check-ins  
-- **900+ attendees** supported  
+- **220+ attendees** supported  
 - **60% faster** verification process  
 - Smooth backend integrations  
 <br>
@@ -91,17 +101,17 @@ AI-enhanced real-time bidding system
 - Real-time updates & payment integration  
 - **Major project implementation**  
 <br>
-<sub><i>MERN • AI/ML • TailwindCSS</i></sub>
+<sub><i>MERN • AI/ML • TailwindCSS • Google Auth2.0</i></sub>
 
 ---
 
 ### 🔥 [Auction-X](https://github.com/kunalsarkar-bit/Auction-X)  
 Online auction marketplace built during internship  
-- Used by **150+ active users/week**  
+- Used by **50+ users/week**  
 - Performance boosted by **35%**  
 - Internship capstone project  
 <br>
-<sub><i>MERN • Deployment with CI/CD • Tailwind</i></sub>
+<sub><i>MERN • Deployment with CI/CD • Bootstrap • Google Auth2.0</i></sub>
 
 </td>
 </tr>
@@ -117,8 +127,8 @@ Online auction marketplace built during internship
 
 **Web Developer Intern**  
 *Euphoria GenX* — Jul - Sep 2024  
-- Developed Auction-X (150+ users)  
-- Led 3-member dev team  
+- Developed Auction-X (50+ users)  
+- Led 2-member dev team  
 - Implemented CI/CD  
 - Achieved 35% performance gain  
 <br>
@@ -157,7 +167,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kunalsarkar-592a1230a/)  
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kunalsarkar6290@gmail.com)  
-[![Phone](https://img.shields.io/badge/Call-28a745?style=for-the-badge&logo=phone)](tel:+916290613849)
+
 
 <br>
 
