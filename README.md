@@ -144,7 +144,8 @@ Event management platform with QR check-ins
 Simple weather tracking app  
 - Live weather updates for global cities  
 - Clean responsive UI  
-- Real-time temperature & humidity display  
+- Real-time temperature & humidity display
+- simple ui
 <br>
 <sub><i>HTML • CSS • JS • OpenWeatherMap API</i></sub>
 
