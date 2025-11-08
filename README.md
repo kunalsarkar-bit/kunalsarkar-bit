@@ -134,7 +134,7 @@ Event management platform with QR check-ins
 - **220+ attendees** supported  
 - **60% faster** verification process  
 - Smooth backend integrations
-- Bollywood singer Nikita Gandhi graced the event as the Guest of Honou
+- Bollywood singer Nikita Gandhi graced the event as the Guest of Honour
 <br>
 <sub><i>Node.js • Express • MongoDB • QR API</i></sub>
 
