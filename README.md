@@ -133,7 +133,8 @@ Online auction marketplace (Internship Project)
 Event management platform with QR check-ins  
 - **220+ attendees** supported  
 - **60% faster** verification process  
-- Smooth backend integrations  
+- Smooth backend integrations
+- Bollywood singer Nikita Gandhi graced the event as the Guest of Honou
 <br>
 <sub><i>Node.js • Express • MongoDB • QR API</i></sub>
 
