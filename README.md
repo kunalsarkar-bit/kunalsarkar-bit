@@ -8,7 +8,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:kunalsarkar6290@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/kunalsarkar-bit?label=Follow&style=flat&logo=github)](https://github.com/kunalsarkar-bit)
 
+**MCA (Master of Computer Applications) | Heritage Institute of Technology | CGPA: 9.09 (1st Sem)**  
 **BCA Graduate | CGPA: 7.41 | Kolkata, India**  
+
 *Aspiring Software Developer with hands-on MERN stack experience and AI integration expertise*
 
 </div>
