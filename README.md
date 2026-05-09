@@ -1,6 +1,6 @@
-<div align="center">
-
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHzPDWl4Jaj7Q/profile-displaybackgroundimage-shrink_200_800/B56Z0NPSHCHkAU-/0/1774043604235?e=1779926400&v=beta&t=LJ6X07nBSiySE8nmBZ0uTz3MSehEnkE-OsB0AV7onqY" width="100%"/>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;AI+%26+Real-Time+Systems+Builder;Socket.IO+%7C+JWT+%7C+Gemini+AI;Turning+Ideas+into+Scalable+Products" />
 
@@ -12,7 +12,7 @@
 
 ## 🧠 Who Am I?
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/wGWFVvwJybDwTlnTSS/giphy.gif" width="280"/>
 
 I'm a **self-taught Full-Stack MERN Developer** currently pursuing my **MCA at Heritage Institute of Technology, Kolkata** — with a **SGPA of 9.09** in my first semester.
 
@@ -32,13 +32,15 @@ I'm a **self-taught Full-Stack MERN Developer** currently pursuing my **MCA at H
 <summary><h3>💻 Languages</h3></summary>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css&theme=dark" />
 </p>
 
 <p align="center">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
 </p>
 
 </details>
