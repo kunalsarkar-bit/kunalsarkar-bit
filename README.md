@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;AI+%26+Real-Time+Systems+Builder;Socket.IO+%7C+JWT+%7C+Gemini+AI;Turning+Ideas+into+Scalable+Products" />
 
+</div>
+
+<div align="right">
+
 <img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
