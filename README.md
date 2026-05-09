@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:0a3d62,100:00F7FF&height=200&section=header&text=Kunal%20Sarkar&fontSize=60&fontColor=00F7FF&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20AI%20Integration%20%7C%20MCA%20%40%20Heritage%20Institute&descAlignY=60&descSize=16&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHzPDWl4Jaj7Q/profile-displaybackgroundimage-shrink_200_800/B56Z0NPSHCHkAU-/0/1774043604235?e=1779926400&v=beta&t=LJ6X07nBSiySE8nmBZ0uTz3MSehEnkE-OsB0AV7onqY" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;AI+%26+Real-Time+Systems+Builder;Socket.IO+%7C+JWT+%7C+Gemini+AI;Turning+Ideas+into+Scalable+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;AI+%26+Real-Time+Systems+Builder;Socket.IO+%7C+JWT+%7C+Gemini+AI;Turning+Ideas+into+Scalable+Products" />
 
-<img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -185,11 +185,21 @@ Clean, responsive weather tracking app delivering real-time temperature, humidit
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)
+![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=dark&hide_border=true&background=0D0D0D&ring=ffffff&fire=cccccc&currStreakLabel=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsarkar-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsarkar-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=ffffff)
+
+</div>
+
+---
+
+## 🎯 Contribution
+
+<div align="center">
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/kunalsarkar-bit?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
 
 </div>
 
@@ -198,7 +208,7 @@ Clean, responsive weather tracking app delivering real-time temperature, humidit
 ## 📈 Activity Graph
 
 <a href="https://github.com/kunalsarkar-bit">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsarkar-bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalsarkar-bit&theme=github-compact&hide_border=true&bg_color=0D0D0D&color=ffffff&line=888888&point=ffffff" width="100%">
 </a>
 
 ---
@@ -262,6 +272,6 @@ const kunal = {
 
 ### 💡 *"Building systems that scale, experiences that matter."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0a3d62,100:0D0D0D&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:333333&height=100&section=footer" width="100%"/>
 
 </div>
