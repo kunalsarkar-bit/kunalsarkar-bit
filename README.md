@@ -189,11 +189,12 @@ Clean, responsive weather tracking app delivering real-time temperature, humidit
 
 <div align="center">
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc)
+<img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsarkar-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=cccccc" height="180"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunalsarkar-bit&theme=dark&hide_border=true&background=0D0D0D&ring=ffffff&fire=cccccc&currStreakLabel=ffffff)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsarkar-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=ffffff)
+<img src="https://streak-stats.demolab.com?user=kunalsarkar-bit&theme=dark&hide_border=true&background=0D0D0D&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" width="60%"/>
 
 </div>
 
