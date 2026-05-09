@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;AI+%26+Real-Time+Systems+Builder;Socket.IO+%7C+JWT+%7C+Gemini+AI;Turning+Ideas+into+Scalable+Products" />
 
-</div>
-
-<div align="right">
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=kunalsarkar-bit&color=lightgrey&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -69,7 +67,7 @@ I'm a **self-taught Full-Stack MERN Developer** currently pursuing my **MCA at H
 <summary><h3>🗄️ Databases, DevOps & Tools</h3></summary>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,github,git,cloudinary,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github,postman&theme=dark" />
 </p>
 
 ```
@@ -201,16 +199,6 @@ Clean, responsive weather tracking app delivering real-time temperature, humidit
 
 ---
 
-## 🎯 Contribution
-
-<div align="center">
-
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/kunalsarkar-bit?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <a href="https://github.com/kunalsarkar-bit">
@@ -256,6 +244,16 @@ const kunal = {
     goal: "Production-Level AI-Integrated Full Stack Engineering"
 };
 ```
+
+---
+
+## 🎯 Contribution
+
+<div align="center">
+
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/kunalsarkar-bit?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true)
+
+</div>
 
 ---
 
