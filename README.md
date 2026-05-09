@@ -189,12 +189,17 @@ Clean, responsive weather tracking app delivering real-time temperature, humidit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunalsarkar-bit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsarkar-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=ffffff&text_color=cccccc" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsarkar-bit&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsarkar-bit&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsarkar-bit&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalsarkar-bit&theme=github_dark" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kunalsarkar-bit&theme=github_dark&utcOffset=5.5" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=kunalsarkar-bit&theme=dark&hide_border=true&background=0D0D0D&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=kunalsarkar-bit&theme=github-dark-blue&hide_border=true" width="60%"/>
 
 </div>
 
